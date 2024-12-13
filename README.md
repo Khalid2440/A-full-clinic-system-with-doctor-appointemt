@@ -1,5 +1,2 @@
-# A-full-clinic-system-with-doctor-appointemt
-In this project you will find doctor appointment with doctor log in
-patient appointment with log in
-Lablatory log in with upcoming report and old reports
-with full control of a clinic system
+# Online-Doctor-Appointment-Booking
+This Project is written in HTML,CSS and PHP. From this website a client or patient can book their appointment online . Doctors can manage appoint scheduling,reporting etc. While Laboratory can send their report directly to client
